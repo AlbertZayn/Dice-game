@@ -1,0 +1,45 @@
+body {
+    background-color: #393E46;
+    color: whitesmoke;
+}
+
+h1 {
+    font-family: 'reospecregular';
+    text-align: center;
+    font-size: 5.5rem;
+    color: #4ECCA3;
+    margin: 30px;
+}
+
+.container {
+    text-align: center;
+    width: 80%;
+    margin: 7% auto auto;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    color: #4ECCA3;
+    padding: 0 1%;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+img {
+    width: 70%;
+}
+
+/* Reospec font */
+
+@font-face {
+    font-family: 'reospecregular';
+    src: url('fonts/Reospect/reospec-webfont.woff2') format('woff2'),
+        url('fonts/Reospect/reospec-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
