@@ -1,9 +1,9 @@
 # Dice-game
 
-![DiceRefresh](https://user-images.githubusercontent.com/108021063/206419092-9e30445f-0b62-4be7-abd0-e52a467bd0e8.png)
+![DiceRefresh](https://user-images.githubusercontent.com/108021063/206421819-474527a5-5f78-492c-ba84-3f09aaab113e.png)
 
-![DiceP1WIN](https://user-images.githubusercontent.com/108021063/206419159-cccb5beb-34ec-4ab7-bd96-180ddd20fa20.png)
+![DiceP1WIN](https://user-images.githubusercontent.com/108021063/206421846-91226734-ffe2-4506-b341-c95b6e14a027.png)
 
-![DiceP2WIN](https://user-images.githubusercontent.com/108021063/206419184-3feb9e4c-d4d2-4752-ae31-3ae3748fa502.png)
+![DiceP2WIN](https://user-images.githubusercontent.com/108021063/206421874-c3ba1c22-2cf4-4e3a-8c6c-ad3c09aaf7fd.png)
 
-![DiceDRAW](https://user-images.githubusercontent.com/108021063/206419205-65276add-c67d-4ace-afd8-a4d7d0af27d2.png)
+![DiceDraw](https://user-images.githubusercontent.com/108021063/206421899-7f2a8b85-6126-495d-8b0c-c4ed95c9f301.png)
