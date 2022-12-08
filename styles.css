@@ -33,8 +33,14 @@ img {
     width: 70%;
 }
 
-/* Reospec font */
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
 
+/* Reospec font */
 @font-face {
     font-family: 'reospecregular';
     src: url('fonts/Reospect/reospec-webfont.woff2') format('woff2'),
